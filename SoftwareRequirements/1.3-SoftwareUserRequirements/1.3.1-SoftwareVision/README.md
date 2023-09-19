@@ -5,5 +5,5 @@
 **The:** "Sculptor's Haven"    
 **Is:** Hardware: Static PC, Laptop, OS: MS Windows    
 **That:** Надає зручний доступ до інформації про житло, спеціально адаптований для потреб скульпторів. Це допомагає їм знайти житло, яке відповідає їхнім потребам у просторі та комфорті для створення скульптур.   
-**Unlike:** Навідміну від "ArtHaven Rentals", "Sculptor's Choice" або "ArtHomeFinder"
+**Unlike:** Навідміну від "ArtHaven Rentals", "Sculptor's Choice" або "ArtHomeFinder"   
 **Our product:** Наш продукт відрізняється тим, що ми пропонуємо спеціалізований підхід до пошуку житла для скульпторів.
