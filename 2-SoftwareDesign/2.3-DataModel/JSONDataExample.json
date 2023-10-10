@@ -1,0 +1,47 @@
+{
+  "Users": {
+    "1": {
+      "login": "username",
+      "password": "********",
+      "email": "name@gmail.com"
+    }
+  },
+  "Requests": {
+    "1": {
+      "purpose": "Технічні питання",
+      "date": "10.10.2023"
+    }
+  },
+  "Office Employee": {
+    "1": {
+      "name": "Вячеслав"
+    }
+  },
+  "Answer": {
+    "1": {
+      "Answer text": "Доброго дня , ні , данного товару немає",
+      "date": "11.10.2023"
+    }
+  },
+  "List of Products": {
+    "1": {
+      "name": "Скульптура пляшки пива"
+    }
+  },
+  "Request for an order": {
+    "1": {
+      "purpose": "Замовлення",
+      "date": "10.10.2023"
+    }
+  },
+  "Order": {
+    "1": {
+      "name": "Скульптура пляшки пива"
+    }
+  },
+  "Masseiter Sculptor": {
+    "1": {
+      "name": "Ігор"
+    }
+  }
+}
