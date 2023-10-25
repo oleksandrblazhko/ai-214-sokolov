@@ -1,0 +1,40 @@
+@startjson
+
+title JSON Data
+{
+  "User": {
+    "id": "1",
+    "login": "username",
+      "password": "********",
+      "email": "12345@stud.op.edu.ua",
+  "Requests": {
+    "id": "1",
+    "purpose": "Запит на замовлення",
+    "date": "25.10.2023"
+    },
+  "Office Employee": {
+    "id": "1",
+    "name": "Вячеслав"
+    },
+  "Responses to Requests": {
+    "id": "1",
+    "response text": "Добре передамо ваші побажання майстру",
+    "date": "26.10.2023"
+    },
+ "List of goods": [
+    {
+      "id": "1",
+      "name": "Скульптура пива"
+    },
+    {
+      "id": "2",
+      "name": "Дерево глечиків"
+    },
+    {
+      "id": "3",
+      "name": "Плетене сітка"
+    }
+ ]
+ }
+}
+@endjson
