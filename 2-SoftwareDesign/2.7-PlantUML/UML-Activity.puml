@@ -1,0 +1,15 @@
+@startuml
+title Activity Diagram 
+
+start
+:User enters login and password;
+:Program analyzes entered user data;
+if (New decision condition?) then (Yes)
+ :New yes step;
+else (No)
+ :New no step;
+ :User enters login and password;
+endif
+stop
+
+@enduml
